@@ -46,5 +46,5 @@ git branch develop
 - mainから別枝へ切り替える時  
 git switch develop  
 
-- 現在捜査している branch を確認する際
+- 現在捜査している branch を確認する際  
 git branch
