@@ -35,5 +35,16 @@ git init
 git remote add origin リポジトリURL
 
 
+## branch を用いた開発
 
+mainの枝は自動でつくられる  
+→ 個人開発ではもう１つ作っておくとよい｜develop  
 
+- 別の枝を作る時  
+git branch develop  
+
+- mainから別枝へ切り替える時  
+git switch develop  
+
+- 現在捜査している branch を確認する際  
+git branch
